@@ -9,4 +9,4 @@ Web-Based Interface that allows to click on the buttons -that shows the directio
 
 
 **The picture below shows how the data saved ib the DB** <br /><br />
-![alt text](https://github.com/Nehad-Alnahari/Robot-Directions/blob/master/DB.png?raw=true)
+![alt text](https://github.com/Nehad-Alnahari/Robot-Directions/blob/master/db.png?raw=true)
