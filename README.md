@@ -8,5 +8,5 @@ Web-Based Interface that allows to click on the buttons -that shows the directio
 <br />
 
 
-**Click on the link bellow to open the Web page** <br />
- [https://nehad-alnahari.github.io/Robot-Controlling-Web-Based-Interface/]
+**The picture below shows how the data saved ib the DB** <br />
+
